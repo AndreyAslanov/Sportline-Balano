@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "health_calories_icon.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

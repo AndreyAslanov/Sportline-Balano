@@ -1,0 +1,71 @@
+// MARK: - General
+
+// Onboarding VC
+
+"slacklineTracker" = "Slackline Tracker";
+"motivatedSubLabel" = "Get better, stay motivated.";
+"welcome" = "Welcome";
+"welcomeSubLabel" = "An application for recording and tracking slackline workouts";
+"chooseLabel" = "Thank you for choosing us!";
+"chooseSubLabel" = "Train at any time and keep track of your progress";
+"further" = "Further";
+"getStarted" = "Let's get started";
+"skip" = "Skip";
+
+// Settings VC
+
+"settings" = "Settings";
+"reset" = "Reset progress";
+"noData" = "No data";
+"shareApp" = "Share app";
+"usagePolicy" = "Usage Policy";
+"rateApp" = "Rate app";
+"back" = "Back";
+"save" = "Save";
+"cancel" = "Cancel";
+"edit" = "Edit";
+"close" = "Close";
+
+// Health VC
+
+"health" = "Health";
+"progress" = "Progress";
+"healthPulse" = "Pulse";
+"healthWeight" = "Weight";
+"healthSleep" = "Sleep";
+"healthCalories" = "Number calories";
+"trackProgress" = "To track progress";
+"moodTraining" = "Mood during training";
+
+// Training VC
+
+"training" = "Training";
+"add" = "Add";
+"addWorkout" = "Add a workout";
+"maxHeight" = "Maximum height";
+"maxDistance" = "Maximum distance";
+"trainingTime" = "Training time";
+"windSpeed" = "Wind speed";
+"newWorkout" = "New Workout";
+"editWorkout" = "Edit Workout";
+"value" = "Value";
+"name" = "Name";
+"typeTape" = "Type of tape";
+"height" = "Height";
+"trainingPlace" = "Training place";
+"time" = "Time";
+"description" = "Description";
+"deleteThis" = "Do you really want to delete this?";
+"delete" = "Delete";
+
+// Home VC
+
+"home" = "Home";
+"main" = "Main";
+"progressMonth" = "Progress in a month";
+"numberTraining" = "Number of training sessions";
+"heightTape" = "Height of the tape";
+"trainingPhotos" = "Training photos";
+"addPhoto" = "Add a photo";
+"editPhoto" = "Edit Photo";
+"deletePhoto" = "Delete Photo";
